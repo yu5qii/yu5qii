@@ -1,6 +1,6 @@
-✨ Hi, I am Ridah Abbasi ✨
-📘 Currently studying at ABES Engineering College, Ghaziabad
-🕶️ Learning python, c++ and Web Dev
+✨ Hi, I am Ridah Abbasi ✨ <br>
+📘 Currently studying at ABES Engineering College, Ghaziabad <br>
+🕶️ Learning python, c++ and Web Dev <br>
 
 email: ridah.ppg@gmail.com
 
