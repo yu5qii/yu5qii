@@ -1,4 +1,8 @@
-## Hi there 👋
+✨ Hi, I am Ridah Abbasi ✨
+📘 Currently studying at ABES Engineering College, Ghaziabad
+🕶️ Learning python, c++ and Web Dev
+
+email: ridah.ppg@gmail.com
 
 <!--
 **yu5qii/yu5qii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
