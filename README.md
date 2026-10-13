@@ -2,8 +2,8 @@
 Currently studying at ABES Engineering College, Ghaziabad <br>
 Learning python, graphics design, computer vision and touch designing<br>
 
-email: ridah.ppg@gmail.com
-leetcode: @yu5qii
+email: ridah.ppg@gmail.com<br>
+leetcode: @yu5qii<br>
 codechef: @yu5qii
 
 <!--
